@@ -24,4 +24,4 @@
 上述语句的-o参数一定不能去掉，去掉可能会发送失败！
 
 如何你功能完成了上述步骤，请一定要：
-# Thx Google! Thx Google!
+# Thx Google! Thx Google! Thx Google!
